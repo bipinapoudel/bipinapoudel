@@ -52,12 +52,6 @@ Passionate about transforming data into actionable insights and building secure,
 - 💼 LinkedIn: https://www.linkedin.com/in/bipina-poudel/  
 - 📧 Email: poudelbipina11@gmail.com  
 
----
-
-## 📌 Focus Areas  
-- Data Engineering & Analytics  
-- IT Project Management  
-- Cybersecurity & Threat Analysis  
 
 ---
 
