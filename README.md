@@ -8,11 +8,11 @@ Passionate about transforming data into actionable insights and building secure,
 ---
 
 ## 🚀 What I Do
-- 🔹 Design, build, and optimize **data pipelines & ETL workflows**
-- 🔹 Manage projects across the **full lifecycle (initiation → planning → execution → delivery)**
-- 🔹 Work with **big data technologies** to handle large-scale data processing
-- 🔹 Leverage **cloud platforms** for scalable and efficient solutions
-- 🔹 Apply **cybersecurity practices** to build secure and reliable systems  
+🔹 Design, build, and optimize **data pipelines & ETL workflows**
+🔹 Manage projects across the **full lifecycle (initiation → planning → execution → delivery)**
+🔹 Work with **big data technologies** to handle large-scale data processing
+🔹 Leverage **cloud platforms** for scalable and efficient solutions
+🔹 Apply **cybersecurity practices** to build secure and reliable systems  
 
 ---
 
