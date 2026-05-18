@@ -44,7 +44,7 @@ Passionate about transforming data into actionable insights and building secure,
 
 ## 🌐 Connect with Me  
 - 💼 LinkedIn: https://www.linkedin.com/in/bipina-poudel/  
-- 📧 Email: poudelbipina11@gmail.com  
+- 📧 Email: poudelbipina67@gmail.com  
 
 
 ---
